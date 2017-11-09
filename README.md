@@ -1,6 +1,6 @@
 
 ## SlideShow 
-javascript code 
+javascript (by using p5.js lib) code 
 
 ## Demo
 
